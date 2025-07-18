@@ -1,5 +1,4 @@
-# Palash
-About Palash
+
 # Hi, I'm Palash Nagwani 👋
 
 ### 📚 About Me
