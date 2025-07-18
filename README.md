@@ -13,7 +13,7 @@
 - [Electronic-Shop-Management](https://github.com/palash2404/Electronic-shop-management/blob/main/README.md) – A simple CLI-based Python project for managing users, customers, products, bills, and sales.
 
 ### 🎯 Current Focus
-- Working on a new Software to make life of Students and Corporate worker.(Soon to be declared)
+- Working on a new Software to make lives of Students and Corporate worker easier.(Soon to be declared)
 
 ### 🏫 Education
 - BSc in Computer Science, University of Saarland
