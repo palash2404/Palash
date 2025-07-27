@@ -7,7 +7,7 @@
 
 ### 💻 Skills
 - **Languages**: Java, C, OCaml, RISC-V Assembly, Python (backend)
-- **Tools**: Git, VS Code, IntelliJ
+- **Tools**: Git, VS Code, IntelliJ, Latex, Maple, MS Office, Affinity Photo, Final Cut Pro.
 
 ### 🚀 Projects
 - [Electronic-Shop-Management](https://github.com/palash2404/Electronic-shop-management/blob/main/README.md) – A simple CLI-based Python project for managing users, customers, products, bills, and sales.
