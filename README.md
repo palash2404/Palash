@@ -12,6 +12,7 @@
 ### 🚀 Projects
 - [Electronic-Shop-Management](https://github.com/palash2404/Electronic-shop-management/blob/main/README.md) – A simple CLI-based Python project for managing users, customers, products, bills, and sales.
 - [URI-Parser](https://github.com/palash2404/URI-Parser.git) - A Java implementation of a URI parser that validates and parses URIs according to a subset of RFC 3986 specification.
+- [Seam Carving](https://github.com/palash2404/Seam-Carving)-A C implementation of the seam carving algorithm for content-aware image resizing.
 
 ### 🎯 Current Focus
 - Working on a new Software to make lives of Students and Corporate worker easier.(Soon to be declared)
