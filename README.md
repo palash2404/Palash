@@ -2,8 +2,7 @@
 # Hi, I'm Palash Nagwani 👋
 
 ### 📚 About Me
-- Computer Science Bachelor’s student @ University of Saarland (UdS)
-- Passionate about backend development, Solving Problems and programming languages
+- Computer Science Bachelor’s student @ University of Saarland (UdS).
 
 ### 💻 Skills
 - **Languages**: Java, C, OCaml, RISC-V Assembly, Python (backend)
@@ -18,7 +17,7 @@
 
 
 ### 🎯 Current Focus
-- Working on a new Software to make lives of Students and Corporate worker easier.(Soon to be declared)
+- Working on a new Software Service to make lives of Students and Corporate worker easier.(Soon to be announced)
 
 ### 🏫 Education
 - BSc in Computer Science, University of Saarland
