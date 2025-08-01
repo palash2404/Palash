@@ -5,7 +5,7 @@
 - Computer Science Bachelor’s student @ University of Saarland (UdS).
 
 ### 💻 Skills
-- **Languages**: Java, C, OCaml, RISC-V Assembly, Python (backend)
+- **Languages**: Java, C, OCaml, RISC-V Assembly, Python (backend), SQL, JavaScript, HTML CSS, React Native.
 - **Tools**: Git, VS Code, IntelliJ, Latex, Maple, MS Office, Affinity Photo, Final Cut Pro.
 
 ### 🚀 Projects
